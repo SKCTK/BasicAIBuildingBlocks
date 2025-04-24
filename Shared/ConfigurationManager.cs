@@ -7,13 +7,13 @@ public class ConfigurationManager
     /* This ConfigurationManager relies on .NET User Secrets in the following format
     ************************************************************************************************************************************************
     {
-      "Endpoint": "todo", //URL of you Azure OpenAI Service
-      "Key": "todo", //Key of you Azure OpenAI Service
-      "ChatDeploymentName": "todo" //DeploymentName of you Azure OpenAI Chat-model (example: "gpt-4o-mini")
+      "Endpoint": "todo", //URL of your Azure OpenAI Service
+      "Key": "todo", //Key of your Azure OpenAI Service
+      "ChatDeploymentName": "todo" //DeploymentName of your Azure OpenAI Chat-model (example: "gpt-4o-mini")
     }
     ************************************************************************************************************************************************
     - See the how-to guides on how to create your Azure Resources in the ReadMe
-    - See https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets on how work with user-secrets
+    - See https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets on how to work with user-secrets
     ************************************************************************************************************************************************
     */
 
