@@ -1,6 +1,22 @@
 # Basic AI Building Blocks
 In this Repo, we explore the Basic AI Building Blocks to learn to be successful with AI and Semantic Kernel
 
+# Setup
+These Samples rely on an Azure OpenAI Resource with the following to be set up with .NET User Secrets in the Shared Project (in the following format)
+
+> **secrets.json**
+```js    
+
+{
+  "Endpoint": "todo", //URL of your Azure OpenAI Service
+  "Key": "todo", //Key of your Azure OpenAI Service
+  "ChatDeploymentName": "todo" //DeploymentName of your Azure OpenAI Chat-model (example: "gpt-4o-mini")
+}
+```
+
+- See https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets on how to work with user-secrets
+- See the how-to guides on how to create your Azure Resources
+
 # Samples:
 - [Structured Output](StructuredOutput)
 
