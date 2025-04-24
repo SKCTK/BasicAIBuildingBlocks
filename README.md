@@ -1,10 +1,10 @@
 # Basic AI Building Blocks
-In this Repo we explore the Basic AI Building Blocks to learn in order to be successfull with AI and Semantic Kernel
+In this Repo, we explore the Basic AI Building Blocks to learn to be successful with AI and Semantic Kernel
 
 # Samples:
 - [Structured Output](StructuredOutput)
 
-# How to Guides
+# How-to Guides
 - General
   - [How to create an Azure OpenAI Service in Azure](HowToGuides/HowToCreateAnAzureOpenAiServiceResourceInAzure.md#how-to-create-an-azure-open-ai-service-resource-in-azure)
  - For RAG
