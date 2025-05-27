@@ -7,13 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredOutput", "Structu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{43802185-BFE9-446E-BA08-C1BDCECFF280}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MCP", "MCP", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModelContextProtocol", "ModelContextProtocol", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "ModelContextProtocolSamples\Client\Client.csproj", "{9A8423A2-DC27-BA3F-246E-6042F9803765}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "ModelContextProtocol\Client\Client.csproj", "{9A8423A2-DC27-BA3F-246E-6042F9803765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalServer", "ModelContextProtocolSamples\LocalServer\LocalServer.csproj", "{12E15ED9-35A5-9587-1F03-C3BBD8CEB336}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalServer", "ModelContextProtocol\LocalServer\LocalServer.csproj", "{12E15ED9-35A5-9587-1F03-C3BBD8CEB336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteServer", "ModelContextProtocolSamples\RemoteServer\RemoteServer.csproj", "{6931582A-2E6D-24B3-7367-8A033AA94189}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteServer", "ModelContextProtocol\RemoteServer\RemoteServer.csproj", "{6931582A-2E6D-24B3-7367-8A033AA94189}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

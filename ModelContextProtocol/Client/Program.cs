@@ -3,7 +3,6 @@ using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.Agents;
 using Microsoft.SemanticKernel.Connectors.AzureOpenAI;
 using ModelContextProtocol.Client;
-using ModelContextProtocol.Protocol.Transport;
 using Shared;
 
 #pragma warning disable SKEXP0001
